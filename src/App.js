@@ -12,6 +12,7 @@ const App = () => (
     <SpecialMenu />
     <Chef />
     <Intro />
+    <Laurels />
   </Router>
     
 )

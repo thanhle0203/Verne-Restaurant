@@ -11,6 +11,7 @@ const App = () => (
     <AboutUs />
     <SpecialMenu />
     <Chef />
+    <Intro />
   </Router>
     
 )

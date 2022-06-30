@@ -13,6 +13,7 @@ const App = () => (
     <Chef />
     <Intro />
     <Laurels />
+    <Gallery />
   </Router>
     
 )

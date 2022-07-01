@@ -9,5 +9,6 @@
   flex-direction: column;
 
   background: var(--color-black);
+  padding: 0;
 }
 

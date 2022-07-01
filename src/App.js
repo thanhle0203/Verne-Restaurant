@@ -15,6 +15,7 @@ const App = () => (
     <Laurels />
     <Gallery />
     <FindUs />
+    <Footer />
   </Router>
     
 )

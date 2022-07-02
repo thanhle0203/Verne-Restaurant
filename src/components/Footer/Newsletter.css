@@ -41,6 +41,7 @@
 @media screen and (min-width: 2000px) {
   .app__newsletter-input input {
     font-size: 2rem;
+    line-height: 25px;
   }
 }
 
@@ -66,6 +67,6 @@
 @media screen and (max-width: 300px) {
   .app__newsletter-heading h1 {
     font-size: 32px;
-   
+   line-height: 25px;
   }
 }
